@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,126 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am :
+  - Aspiring data scientist
+  - Open Contributor 
+  - Chess Player
+  - Japanese Learner
+  - Python enthusiast
+  - Vim / Linux enthusiast
+  - Tutor 
 
-A data-driven personal website
+I like quotes
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Quick Blog
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I hope to conduct academic research and earn a master’s in Machine Learning. In addition, I hope soon to fill these pages with unique blog posts and publications.
+ In the long run, I want to apply my knowledge in the leading research and new developments introduced within this field. However, with the events of complex data processing interlinked with AI, I believe the future is nearer than we think. Seeing this happen before my eyes incites this drive to continue forward and be a part of this incredible adventure.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My goals going onwards from now is to solely be a part of this pathway through personal research to undergraduate projects and hopefully my masters.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Stuff That I love
+==================
+ - Python 
+ - Machine Learning
+ - Deep Learning - Detection Software
+ - Graph Neural Networks
+ - Data Science
+ - Computer Vision
+ - *Neovim* 
+ - **The Future** 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<h2 align="">Vivian/__main__.py</h2>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+```python
+devtools = ["nvim", "bash", "poetry", "direnv", "Conda"]
+python = [
+    "Collections", "torch", "numpy", "scipy", "yolov5", "functools", "logging",
+    "sklearn", "pydantic"
+]
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+class WhoAmI:
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+    def __new__(cls):
+        print("Some  infomation about me :")
+        return super(WhoAmI, cls).__new__(cls)
+
+    def __str__(self):
+        return f"{self.name} - {self.email} - {self.role}"
+
+    def __init__(self):
+        self.name = 'Vivian Sedov'
+        self.email = 'viv.sv@hotmail.com'
+        self.role = 'Student'
+        self.hobbies = [
+            'Programming (allot)',
+            'Chess',
+            'Learning Japanese',
+            'Being up all Night figuring out how to FIX that ONE BUG...'
+        ]
+        self.languages = {'English': 5, 'Japanese': 3, "Hindi": 3}
+        self.skills = self.get_skills()
+
+    def get_skills(self):
+        return {'devtools': devtools, 'python': python}
+```
+
+
+Things I am doing
+=================
+ - Learning Contrastive Neural Networks
+ - Creating a self learning chat bot
+ - Learning to create my own datasets / models
+ - Nice project ideas to keep me active:
+    - Blog Posts
+    - Machine Learning projects
+    - Personal Research* 
+
+
+Things that i have Completed 
+===========================
+ - Assistant researcher on Interactive Visualisation of Disentangled Representations
+ - Maintaining multiple open sources projects
+ - Drone Detection system using YoloV5
+ - Facial Recognition System 
+
+What im Reading
+===============
+<table><tr>
+<td>
+ • Deep Learning by "Ian Goodfellow, Yoshua Bengio and Aaron Courvile" <br>
+ • Deep Learning for coders with fastai<br>
+</td>
+<td>
+ • Linear Algebra and learning from data by "Gilbert Strange" <br>
+ • Genki 2 Japanese <br>
+</td>
+
+</tr></table>
+
+
+
+Stats 
+=====
+
+<table><tr>
+<td> <img src="https://wakatime.com/share/@vsedov/96d6684c-b288-44fa-9ea0-98dd91296a37.svg"  style="width: 500px;"/> </td>
+
+<td> <img src="https://wakatime.com/share/@vsedov/d0bb01de-855c-489b-a93a-3921215ae74d.png" style="width: 500px;"/> </td>
+</tr></table>
+
+Get in touch
+======
+You can find me on LinkedIn, click below if you wish to connect! 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="viviansedov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/viviansedov/">Vivian Sedov</a></div>
+
+
+<br>
+<br>
+
+
