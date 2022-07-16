@@ -41,7 +41,8 @@ Stuff That I love
  - *Neovim* 
  - **The Future** 
 
-<h2 align="">Vivian/__main__.py</h2>
+Vivian/\_\_main\_\_.py
+===
 
 ```python
 devtools = ["nvim", "bash", "poetry", "direnv", "Conda"]
