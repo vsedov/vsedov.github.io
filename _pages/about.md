@@ -103,7 +103,7 @@ What im Reading
  • Deep Learning for coders with fastai<br>
 </td>
 <td>
- • Linear Algebra and learning from data by "Gilbert Strange" <br>
+ • Linear Algebra and learning from data by "Gilbert Strang" <br>
  • Genki 2 Japanese <br>
 </td>
 
