@@ -10,7 +10,6 @@ programmed in Java: This was an exciting experience for me, as it was one of the
 an entire group with various different skill levels, being able to manage and conduct different tasks was a skill that
 I learned from this; this was a fundamental project to my core, and I believe that what I  have gained will be fruitful going onwards to my masters.
 
-
 Access : [click](https://github.com/RHUL-CS-Projects/TeamProject2022_28)
 
 Memory Management System
@@ -18,7 +17,6 @@ Memory Management System
 This was another rather exciting project, a creating / emulating a memory management system for applications was very
 interesting, using complex data structures and different tools like make. My core love for C was derived through
 this project.
-
 
 Access : [click](https://github.com/vsedov/MemorySimulation)
 

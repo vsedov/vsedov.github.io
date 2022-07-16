@@ -15,11 +15,14 @@ To access this: Please click [here](https://github.com/nvim-plugnplay/database)
 
 Neovim
 =======
-Neovim is a considerable part of my life; as a personal development editor (pde), I use this for daily life, from note-taking to
-creating multiple projects. For me being able to develop a plugin to help me create a project the way I want is truly
-Beautiful, such that I have been a part of this fantastic community for an extended period. 
+Neovim is a considerable part of my life as a personal development editor (pde); I use this for day-to-day activities,
+such as taking notes from academic articles to creating personal projects (i find projects fascinating). For me, to be able to develop plugins and 
+to be able to contribute to the neovim community, and talk to like-minded developers is truly beautiful. Such that
+seeing this community grow is truly beautiful.
 
-To access my personal Neovim Set: Please click [here](https://github.com/vsedov/nvim)
+
+To access my personal Neovim config : Please click [here](https://github.com/vsedov/nvim) *Quick Note this has over 20k
+Loc you might get lost.* 
 
 Facial recognition Project
 ===
