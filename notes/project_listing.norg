@@ -1,0 +1,25 @@
+@document.meta
+title: project_listing
+description: 
+authors: viv
+categories: 
+created: 2022-07-16
+version: 0.0.11
+
+* Personal Projects
+  - [-]  Self Learning Chat Bot [pending] -> Just mention this or something
+  - [x]  Facial Recognition system [completed maybe ? let me check]
+  - [!]  Maintaining Neorg bot [working on ]
+  - [x]  Youtube Music API on local host [working on ]
+
+* Universty Projects
+  - [x]  Caculator Made in java
+  - [x]  Team Projects
+  - [x]  Memory Management System made in C
+
+* Research Intensive Projects
+  - [x] [gresearch](https://github.com/vsedov/GresearchChallenge) 
+
+ 
+* Learning
+  - [-]  Prolog assigment + Lecture Notes maybe ? 
